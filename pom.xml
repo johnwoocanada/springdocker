@@ -4,10 +4,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.springframework</groupId>
-    <artifactId>gs-spring-boot-docker</artifactId>
-    <version>0.1.0</version>
+    <artifactId>jj-springboot-docker</artifactId>
+    <version>0.1</version>
     <packaging>jar</packaging>
-    <name>Spring Boot Docker</name>
+    <name>Spring Boot Dockerfrom jj</name>
     <description>Getting started with Spring Boot and Docker</description>
 
     <parent>
